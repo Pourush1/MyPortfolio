@@ -46,11 +46,6 @@ class Sidebar extends Component {
                       Projects
                     </a>
                   </li>
-                  {/* <li>
-                    <a href="#" data-nav-section="blog">
-                      Blog
-                    </a>
-                  </li> */}
                   <li>
                     <a href="#timeline" data-nav-section="timeline">
                       Timeline

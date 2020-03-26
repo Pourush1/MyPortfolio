@@ -20,17 +20,30 @@ class About extends Component {
                         I am a graduate student currently pursuing my Master’s
                         in Software Engineering at Villanova University. I am in
                         my final semester right now and looking for a full-time
-                        or internship opportunities.
+                        opportunities.I also currently work for a healthcare
+                        company named Axxess in Dallas,TX as a FrontEnd
+                        Engineer.
                       </p>
                       <p>
                         I am a dedicated and enthusiastic professional who loves
-                        programming. I have 3+ years of experience as a Software
-                        Engineer/ Web Developer. I am very keen to work in a
-                        professional environment with industry leaders and learn
-                        from them as well. I want to be a part of the product
-                        that really matters and open to pick up any technology
-                        stack if necessary. I have skills in the following
-                        related technologies.{" "}
+                        programming. I have 2+ years of experience as a Software
+                        Engineer/ Web Developer.I have always loved making
+                        software. Making software is hard and doing it in the
+                        right way, is even harder. So, I try to follow the best
+                        Software practices to do my tasks in the real world. I
+                        beleive that we are always learning, so I try to learn
+                        everyday from my colleagues as well as from anyone I can
+                        and vice-versa. I believe that sharing knowledge with
+                        each other is best way to teach each other and is the
+                        best form of the human kind. So, being positive is the
+                        best way to move forward.{" "}
+                      </p>
+                      <p>
+                        Besides, getting my hands on making software, I like to
+                        use my free time by playing Soccer, dancing and doing
+                        gym. To improve on dancing, I have even joined a dancing
+                        club. I believe one should be happy in whatever he is
+                        doing and dancing makes me really happy.
                       </p>
                     </div>
                   </div>
@@ -59,10 +72,11 @@ class About extends Component {
                   <div className="desc">
                     <h3>Web Development </h3>
                     <p>
-                      I have experience building websites using
+                      I have experience of building a full-stack website using
                       JavaScript(FrontEnd- React.js) and BackEnd(Node.js) I have
                       also experience in deploying the website using Heroku and
-                      AWS.
+                      AWS. I am also knowledgeable in other front-end technology
+                      like (Aurelia Js).
                     </p>
                   </div>
                 </div>
@@ -75,9 +89,11 @@ class About extends Component {
                   <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
                     <p>
-                      I have a good grasp of the fundamentals of DSA and used to
-                      teach DSA to undergraduate students at Villanova
-                      University.
+                      I have a good grasp of the fundamentals of DSA.It is
+                      really important to optimize our code and to do so, we
+                      should have a very good knowledge of DSA. I have learned
+                      DSA by myself and found it to be the most important skill
+                      for a programmer.
                     </p>
                   </div>
                 </div>
@@ -92,7 +108,9 @@ class About extends Component {
                     <p>
                       I also have knowledge of how the software should be
                       developed beginning from the requirement phase to the
-                      deployment phase.
+                      deployment phase.I have worked in an Agile Environment
+                      which has taught me a lot about how the software should be
+                      made.
                     </p>
                   </div>
                 </div>
