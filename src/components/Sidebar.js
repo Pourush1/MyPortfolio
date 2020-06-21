@@ -25,7 +25,7 @@ class Sidebar extends Component {
                 <a href="index.html">Pourush Shrestha</a>
               </h1>
               <span className="email">
-                <i className="icon-mail" /> pshrest3@villanova.edu
+                <i className="icon-mail" /> pourushshrestha29@gmail.com
               </span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -56,15 +56,6 @@ class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                {/* <li>
-                  <a
-                    href="https://www.facebook.com/dhruv.barochia"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <i className="icon-facebook2" />
-                  </a>
-                </li> */}
                 <li>
                   <a
                     href="https://twitter.com/Pourush29"
