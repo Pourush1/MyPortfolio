@@ -28,17 +28,42 @@ class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
+                          Software Engineer 1 at Axxess{" "}
+                          <span>November 2019-March 2020</span>
+                        </h2>
+                        <p>
+                          I started working as a Software Engineer at Axxess.
+                          During my time period, I learned about enterprise
+                          level application development and worked on different
+                          technologies. I was mainly a part of Front End
+                          Application team for a product called Axxess. My
+                          day-to-day activity would include bug fixes, feature
+                          development, code reviews and metoring interns.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
                           Graduate Assistant at Villanova University{" "}
-                          <span>August 2017-present</span>
+                          <span>August 2017-May 2020</span>
                         </h2>
                         <p>
                           I joined Villanova University as a Graduate student in
-                          2017 and is graduating at the end of this year. I am
-                          pursuing my Masters in Software Engineering here.I
+                          2017 and graduated during May of 2020 this year. I
+                          pursued my Master's in Software Engineering here.I
                           have taken courses like Software Engineering, Database
                           Management System, Requirement Engineering, Software
                           Design & Evolution, Software Studio and some othere
-                          courses here. Currently, my GPA is 3.74.
+                          courses here. My overall GPA is 3.77.
                         </p>
                       </div>
                     </div>
