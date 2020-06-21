@@ -86,24 +86,6 @@ class Sidebar extends Component {
                 </li>
               </ul>
             </nav>
-            {/* <div className="colorlib-footer">
-              <p>
-                <small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and{" "}
-                  <i className="icon-beer" aria-hidden="true" />
-                  <br />
-                  Thanks{" "}
-                  <a
-                    href="https://colorlib.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Colorlib
-                  </a>{" "}
-                  for inspiration
-                </small>
-              </p>
-            </div> */}
           </aside>
         </div>
       </div>

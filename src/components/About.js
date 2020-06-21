@@ -17,12 +17,8 @@ class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I am a graduate student currently pursuing my Master’s
-                        in Software Engineering at Villanova University. I am in
-                        my final semester right now and looking for a full-time
-                        opportunities.I also currently work for a healthcare
-                        company named Axxess in Dallas,TX as a FrontEnd
-                        Engineer.
+                        I am a Software Engineer who just finished his Master’s
+                        in Software Engineering at Villanova University.
                       </p>
                       <p>
                         I am a dedicated and enthusiastic professional who loves
@@ -41,7 +37,7 @@ class About extends Component {
                       <p>
                         Besides, getting my hands on making software, I like to
                         use my free time by playing Soccer, dancing and doing
-                        gym. To improve on dancing, I have even joined a dancing
+                        gym. To improve on dancing, I even joined a dancing
                         club. I believe one should be happy in whatever he is
                         doing and dancing makes me really happy.
                       </p>
@@ -91,9 +87,8 @@ class About extends Component {
                     <p>
                       I have a good grasp of the fundamentals of DSA.It is
                       really important to optimize our code and to do so, we
-                      should have a very good knowledge of DSA. I have learned
-                      DSA by myself and found it to be the most important skill
-                      for a programmer.
+                      should have a very good knowledge of DSA. I found it to be
+                      the one of the most important skill for a programmer.
                     </p>
                   </div>
                 </div>

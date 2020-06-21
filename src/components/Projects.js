@@ -39,11 +39,6 @@ class Projects extends Component {
                           <h3>View Code</h3> <i className="icon-github" />
                         </a>
                       </p>
-                      {/* <p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p> */}
                     </div>
                   </div>
                 </div>
@@ -69,24 +64,17 @@ class Projects extends Component {
                           <h3>View Code</h3> <i className="icon-github" />
                         </a>
                       </p>
-                      {/* <span>Animation</span>
-                      <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p> */}
+                      <p>
+                        <a
+                          className="btn btn-primary btn-learn"
+                          href="https://robo-search-app.herokuapp.com/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <h3>View Live Project</h3>{" "}
+                          <i className="icon-github" />
+                        </a>
+                      </p>
                     </div>
                   </div>
                 </div>
