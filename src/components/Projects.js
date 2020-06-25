@@ -181,7 +181,7 @@ class Projects extends Component {
                 >
                   <div className="desc">
                     <div className="con">
-                      <h1>COVID 19 TRACKER</h1>
+                      <h1>LIVE COVID 19 TRACKER</h1>
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
@@ -213,32 +213,11 @@ class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/superHeterodyne.JPG)" }}
+                  style={{ backgroundImage: "url(images/smartbrain.JPG)" }}
                 >
                   <div className="desc">
                     <div className="con">
-                      {/* <h3>
-                        <a href="work.html">Work 06</a>
-                      </h3>
-                      <span>Web Design</span>
-                      <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p> */}
-                      <h1>SuperHeterodyne Receiver Simulation Software</h1>
+                      <h1>Smart Brain</h1>
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
@@ -249,20 +228,22 @@ class Projects extends Component {
                           <h3>View Code</h3> <i className="icon-github" />
                         </a>
                       </p>
+                      <p>
+                        <a
+                          className="btn btn-primary btn-learn"
+                          href="https://frontendsmartbrainpourush.herokuapp.com/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <h3>View Live Project</h3>{" "}
+                          <i className="icon-github" />
+                        </a>
+                      </p>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            {/* <div className="row">
-              <div className="col-md-12 animate-box">
-                <p>
-                  <a href="#" className="btn btn-primary btn-lg btn-load-more">
-                    Load more <i className="icon-reload" />
-                  </a>
-                </p>
-              </div>
-            </div> */}
           </div>
         </section>
       </div>
