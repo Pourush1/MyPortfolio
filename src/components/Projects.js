@@ -177,40 +177,30 @@ class Projects extends Component {
               >
                 <div
                   className="project"
-                  style={{ backgroundImage: "url(images/bouncingBalls.JPG)" }}
+                  style={{ backgroundImage: "url(images/covid-19.JPG)" }}
                 >
                   <div className="desc">
                     <div className="con">
-                      {/* <h3>
-                        <a href="work.html">Work 05</a>
-                      </h3>
-                      <span>Graphic, Logo</span>
-                      <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p> */}
-                      <h1>Bouncing Balls</h1>
+                      <h1>COVID 19 TRACKER</h1>
                       <p>
                         <a
                           className="btn btn-primary btn-learn"
-                          href="https://github.com/Pourush1/Bouncing-Balls"
+                          href="https://github.com/Pourush1/Covid-Tracker"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
                           <h3>View Code</h3> <i className="icon-github" />
+                        </a>
+                      </p>
+                      <p>
+                        <a
+                          className="btn btn-primary btn-learn"
+                          href="https://covid-stats-2019-app.netlify.app/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <h3>View Live Project</h3>{" "}
+                          <i className="icon-github" />
                         </a>
                       </p>
                     </div>
