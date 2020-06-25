@@ -85,10 +85,11 @@ class About extends Component {
                   <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
                     <p>
-                      I have a good grasp of the fundamentals of DSA.It is
-                      really important to optimize our code and to do so, we
-                      should have a very good knowledge of DSA. I found it to be
-                      the one of the most important skill for a programmer.
+                      I have a good grasp of the fundamentals of Data Structure
+                      and Algorithm.It is really important to optimize our code
+                      and to do so, we should have a very good knowledge of DSA.
+                      I found it to be the one of the most important skill for a
+                      programmer.
                     </p>
                   </div>
                 </div>
