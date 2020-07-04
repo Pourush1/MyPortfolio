@@ -25,7 +25,7 @@ class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://github.com/Pourush1/MyPortfolio/blob/master/public/assets/Resume.pdf"
+                              href="https://github.com/Pourush1/MyPortfolio/blob/master/public/assets/SOFTWARE ENGINEER SUMMARY.pdf"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
