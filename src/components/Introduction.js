@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
 class Introduction extends Component {
   render() {
@@ -11,7 +11,7 @@ class Introduction extends Component {
         >
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{ backgroundImage: "url(images/photo.jpg)" }}>
+              <li style={{ backgroundImage: 'url(images/photo.jpg)' }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -25,7 +25,7 @@ class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://github.com/Pourush1/MyPortfolio/blob/master/public/assets/Pourush Software Engineer Resume.pdf"
+                              href="https://github.com/Pourush1/MyPortfolio/blob/master/public/assets/Software Engineer Pourush.pdf"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -39,7 +39,7 @@ class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{ backgroundImage: "url(images/test.jpg)" }}>
+              <li style={{ backgroundImage: 'url(images/test.jpg)' }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
